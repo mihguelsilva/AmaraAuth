@@ -103,6 +103,7 @@ Este projeto representa mais do que código. Ele carrega significados:
 ## 📫 Contato
 
 LinkedIn: [Perfil Profissional no LinkedIn](https://www.linkedin.com/in/mihguel-da-silva-santos-tavares-de-araujo/)
+
 GitHub: @mihguelsilva
 
 ## 🏷️ Tags
